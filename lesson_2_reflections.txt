@@ -1,0 +1,24 @@
+Reflections 2 - Fahim Kadhi
+Lesson 1 - Udacity - How to Use Git and Github
+
+This is the first lesson I've finished in Udacity.
+I'm loving the positive reinforcement I'm getting from immediately
+implementing what I've learned. The instructor asked me to keep
+the characters on each line short so that when I'm doing 
+a diff comparison, the program will be able to pinpoint exactly
+where the differences/error are.
+-------------------------------------------------------------------------
+4th December 2016 -- 1st Reflection
+What happens when you initialize a repository? Why do you need to do it?
+When you initialize a Git repository there is a .git file created within
+the folder. You need to do it to keep track of all the changes to your 
+code. And Git is a great way to do that.
+-------------------------------------------------------------------------
+4th December 2016 -- 2nd Reflection
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+The staging area allows you to select which files to add to your new
+repository, considering that you probably don't want to all the files in
+the working directory to the repository. Remember that it's better to
+keep each commit small and not to have too many changes per each commit.
+-------------------------------------------------------------------------
