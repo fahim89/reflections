@@ -38,3 +38,19 @@ original untouched.
 How do the diagrams help you visualize the branch structure?
 It does exactly that.
 -------------------------------------------------------------------------
+22nd December 2016 -- 6th Reflection
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+When you merge two branches together, git intelligently adds the lines of
+code that it thinks is right.
+Not sure what it does with the conflicts yet.
+-------------------------------------------------------------------------
+22nd December 2016 -- 7th Reflection
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+Pros:
+Automotive is hassle free
+Quick
+Cons:
+It might make decisions for you that you might not agree with.
+-------------------------------------------------------------------------
