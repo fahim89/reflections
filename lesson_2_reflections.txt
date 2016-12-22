@@ -34,3 +34,7 @@ history organized? How would branches help?
 Branches help you experiment with your master code while keeping the
 original untouched.
 -------------------------------------------------------------------------
+22nd December 2016 -- 5th Reflection
+How do the diagrams help you visualize the branch structure?
+It does exactly that.
+-------------------------------------------------------------------------
