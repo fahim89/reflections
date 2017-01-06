@@ -47,4 +47,8 @@ master?  What benefits does each approach have?
     to include in your main code.
     
 ---------------------------------------------------------------------------------
-
+01/06/2017 - Second Reflection
+Why might you want to always pull changes manually rather than having Git 
+automatically stay up-to-date with your remote repository?
+You might not want to sync all the changes from your remote repository just yet.
+---------------------------------------------------------------------------------
