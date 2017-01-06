@@ -77,3 +77,12 @@ It wouldn't be easy to keep track of changes, merge, contrast and compare.
 
 ---------------------------------------------------------------------------------
 
+01/06/2017 - Sixth Reflection
+When would you want to make changes in a separate branch rather than directly in 
+master? What benefits does each approach have?
+You would create a new branch when you want to try a new feature or modify any
+part of the code with affecting the master. This way you can experiment with new
+lines of code while still maintaining a master than you know for sure works.
+
+---------------------------------------------------------------------------------
+
