@@ -60,6 +60,12 @@ Describe the differences between forks, clones, and branches. When would you use
 one instead of another?
  http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences
 
- ---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
 
- 
+ 01/06/2017 - Fourth Reflection
+ What is the benefit of having a copy of the last known state of the remote stored 
+ locally?
+ To see how different you are from the local repo once you commit local changes.
+
+---------------------------------------------------------------------------------
+
