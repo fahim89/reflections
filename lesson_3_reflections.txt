@@ -62,10 +62,18 @@ one instead of another?
 
 ---------------------------------------------------------------------------------
 
- 01/06/2017 - Fourth Reflection
+01/06/2017 - Fourth Reflection
  What is the benefit of having a copy of the last known state of the remote stored 
  locally?
  To see how different you are from the local repo once you commit local changes.
+
+---------------------------------------------------------------------------------
+
+01/06/2017 - Fifth Reflection
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+Probably dropbox.
+It wouldn't be easy to keep track of changes, merge, contrast and compare.
 
 ---------------------------------------------------------------------------------
 
