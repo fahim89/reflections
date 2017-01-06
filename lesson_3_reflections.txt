@@ -1,0 +1,50 @@
+01/06/2017 - First Reflection
+When would you want to use a remote repository rather than keeping all your work
+local?
+
+    You would create a remote repository to move your work to the cloud so that you can
+    collaborate with other coders.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    You might not want to commit all the changes automatically as you might
+    branch off and try new experiments with your code and not want to cement
+    the changes.
+    
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    http://stackoverflow.com/questions/3329943/git-branch-fork-fetch-merge-rebase-and-clone-what-are-the-differences
+    Fork - Essentially creates another remote with the code. So the copied
+    code is now in an entirely new repository.  It might be hard to merge
+    changes with a fork back to its original. Harder than a branch atleast.
+    Forking is also a means of encouraging collaboration without granting 
+    write access.
+    Clone - is when you essentially copy another repository. You're
+    essentially downloading the source code from another repository.
+    Branch - This introduces a new thread of development within the same
+    repository. 
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    This seems to be something you would do when you anticipate not having
+    Internet access for a while, for example to work on a plane. Update the 
+    local copy before you leave.  I can do this even if I'm not ready to 
+    merge those changes into my own branches yet.
+    
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    No other solution really. Maybe dropbox or google docs. No good solution
+    like git is currently in offer.
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    When you're trying out a new feature and are not sure whether or not you want
+    to include in your main code.
+    
+---------------------------------------------------------------------------------
+
